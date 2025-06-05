@@ -39,9 +39,10 @@ Este projeto foi criado para fins educacionais e aprendizado em programação, r
 
 ## Instalação
 
-1. Baixe e instale o Python 3 do site oficial: [python.org](https://www.python.org/downloads/).
-2. Abra o terminal (Prompt de Comando no Windows).
-3. Instale a biblioteca `requests`:
+1. Clone o repositório
+2.  Baixe e instale o Python 3 do site oficial: [python.org](https://www.python.org/downloads/).
+3. Abra o terminal (Prompt de Comando no Windows).
+4. Instale a biblioteca `requests`:
 
 ```bash
 pip install requests
